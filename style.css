@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Hand:wght@400..700&display=swap');
 
 :root {
-    --cor-destaque: #ED145B;
-    --cor-gradiente-preto: linear-gradient(113deg, #8d1c2d 0%, #a52a84 44.96%, #ed35e1 100%);
+    --cor-destaque: #ee0b57;
+    --cor-gradiente-preto: linear-gradient(113deg, #8d1c2d 0%, #a52a36 44.96%, #bf104d 100%);
 }
 
 * {
