@@ -1,5 +1,24 @@
 export const PALAVRAS_RUINS = new Set([
-
-    
+    "mas",
+    "melhor",
+    "cá",
+    "lá",
+    "eu",
+    "né",
+    "em",
+    "um",
+    "e",
+    "o",
+    "a",
+    "que",
+    "teu",
+    "meu",
+    "me",
+    "de",
+    "da",
+    "to",
+    "por",
+    "cê",
+    "pra",
     
 ]);
